@@ -1,5 +1,16 @@
 [![Fork Button](https://img.shields.io/github/forks/iemafzalhassan/full-stack_chatApp?style=social)](https://github.com/iemafzalhassan/full-stack_chatApp/fork)
 
+# Production-Ready Kubernetes Deployment for a Real-Time Chat Application
+This project demonstrates the production-grade deployment of a containerized real-time chat application using Kubernetes.
+
+The application includes:
+- Backend service (Node.js)
+- Frontend service
+- MongoDB with Persistent Volume
+- Kubernetes Deployments & Services
+- NGINX Ingress
+- Secrets & Environment configuration
+
 
 # Real-Time Chat Application
 
